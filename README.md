@@ -1,1 +1,6 @@
 # Airplane-1942-game
+[1942 Airplane Game](https://github.com/ParkerJ30/Airplane-1942-game)
+
+<img src="https://github.com/ParkerJ30/Airplane-1942-game/blob/main/Screen%20Shot%202021-01-11%20at%207.25.45%20PM.png" height="500" width="253"><img src="https://github.com/ParkerJ30/Airplane-1942-game/blob/main/Screen%20Shot%202021-01-11%20at%207.29.48%20PM.png" height="500" width="260"><img src="https://github.com/ParkerJ30/Airplane-1942-game/blob/main/Screen%20Shot%202021-01-11%20at%207.25.59%20PM.png" height="500" width="260">
+
+This was the second game I created by myself in APCSP. This game was based off of the arcade game 1942. In this game you control the plane on the bottom screen and you can move it back and forth. In addition to this you also have a shoot button that shoots missles to the oncoming planes. The oncoming plane appears at the top of the screen, you try to shoot this plane down and if it hits the bottom of the screen you lose. This app even further developed my understanding of sprites and how to control them and how to react to each other. In additon I learned how to use CloudDps which I used in enable to keep track of the highscore and save it when the app is closed out.  I created this app using MIT App Inventor.
